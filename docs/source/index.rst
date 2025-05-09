@@ -22,8 +22,7 @@ Referencia: `AQUÍ <https://github.com/c13inb/c13inb.github.io/wiki>`_
 
 .. note::
 
-   Si deseas colaborar en esta wiki es necesario tener una cuenta de github y ser colaborador de este repositorio-wiki. Mas info en 
-este :doc:`Modificar-Wiki`
+   Si deseas colaborar en esta wiki es necesario tener una cuenta de github y ser colaborador de este repositorio-wiki. Mas info en este :doc:`Modificar-Wiki`
 
 
 Contenido
@@ -39,7 +38,7 @@ Contenido
    :maxdepth: 1
    :caption: Resonadores
 
-   Resonadores/resonadores
+   Resonadores/Resonadores
 
 .. toctree::
     :maxdepth: 1
