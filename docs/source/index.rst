@@ -36,6 +36,12 @@ Contenido
    Introduccion/introduccion
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Resonadores
+
+   Resonadores/resonadores
+
+.. toctree::
     :maxdepth: 1
     :caption: Unix for Neuroimagers
     
