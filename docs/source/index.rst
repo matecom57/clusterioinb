@@ -25,9 +25,9 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Install
+   :caption: Introducción
 
-   installation/fsl_mac_install
+   Introduccion/introduccion
 
 .. toctree::
     :maxdepth: 1
