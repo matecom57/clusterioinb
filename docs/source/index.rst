@@ -1,16 +1,20 @@
 ¡Bienvenido a la documentación de Don Clusterio!
 ===================================
 
-.. figure:: ./Introduccion/clusterio.png
+.. figure:: clusterio.png
 
+Don Clusterio es la red de computadoras que trabajan conjuntamente de manera distribuida y paralela para almacenar, manejar y analizar imagenes de 
+resonancia magnetica estructural y funcional principalmente.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+El Instituto de Neurobiología, UNAM, cuenta con tres resonadores, dos para humanos y uno para animales pequeños y son utilizados en los poyectos de 
+investigacion que realizan los estudiantes de maestría y doctorado del Instituto y colaboradores.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+El proposito de estas paginas es documentar lo necesario para utilizar Don Clusterio y todas las herramientas necesarias para analizar las imagenes.
+
+Disfruten esta documentación y si hay comentarios, dudas o algo que deseen saber, escriban a:
+
+Referencia: AQUÍ
+
 
 .. note::
 
