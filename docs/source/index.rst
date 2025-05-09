@@ -13,7 +13,7 @@ El proposito de estas paginas es documentar lo necesario para utilizar Don Clust
 
 Disfruten esta documentación y si hay comentarios, dudas o algo que deseen saber, escriban a:
 
-Referencia: :ref:`AQUÍ <https://github.com/c13inb/c13inb.github.io/wiki>`_
+Referencia: `AQUÍ <https://github.com/c13inb/c13inb.github.io/wiki>`_
 
 
 .. note::
