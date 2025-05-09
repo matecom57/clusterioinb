@@ -1,7 +1,7 @@
 ¡Bienvenido a la documentación de Don Clusterio!
 ===================================
 
-.. figure:: ABB_logo_book.png
+.. figure:: Introduccion/clusterio.png
 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
