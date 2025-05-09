@@ -13,14 +13,20 @@ El proposito de estas paginas es documentar lo necesario para utilizar Don Clust
 
 Disfruten esta documentación y si hay comentarios, dudas o algo que deseen saber, escriban a:
 
-Referencia: :ref:`AQUÍ https://github.com/c13inb/c13inb.github.io/wiki`
+Referencia: :ref:`AQUÍ <https://github.com/c13inb/c13inb.github.io/wiki>`_
 
 
 .. note::
 
-   This project is under active development.
+   Esta documentación está en desarrollo activo.
 
-Contents
+.. note::
+
+   Si deseas colaborar en esta wiki es necesario tener una cuenta de github y ser colaborador de este repositorio-wiki. Mas info en 
+este :doc:`Modificar-Wiki`
+
+
+Contenido
 --------
 
 .. toctree::
