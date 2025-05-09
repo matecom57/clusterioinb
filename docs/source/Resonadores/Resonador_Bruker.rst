@@ -8,9 +8,7 @@ Algunos datos sobre el resonador:
 
 * Bruker Biospec 70/16: 70 porque es un 7 Tesla, y 16 porque su túnel tiene 16 cm de diámetro.
 * El resonador tiene un magneto `Pharmascan <https://www.bruker.com/products/mr/preclinical-mri/pharmascan/overview.html?gclid=EAIaIQobChMIo-bPoJCW4QIVx7jACh3UYAvBEAAYASAAEgIKrfD_BwE>`_, 
-sin 
-embargo toda la electrónica y los gradientes son de un 
-`Biospec <https://www.bruker.com/products/mr/preclinical-mri/biospec/overview.html?gclid=EAIaIQobChMIrY6ZtpCW4QIVhIbACh3L_wZLEAAYASAAEgJdofD_BwE>`_. Por lo 
+sin embargo toda la electrónica y los gradientes son de un `Biospec <https://www.bruker.com/products/mr/preclinical-mri/biospec/overview.html?gclid=EAIaIQobChMIrY6ZtpCW4QIVhIbACh3L_wZLEAAYASAAEgJdofD_BwE>`_. Por lo 
 tanto, el resonador es `de facto` un Biospec.
 
 
