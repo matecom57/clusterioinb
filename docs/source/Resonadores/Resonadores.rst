@@ -8,6 +8,7 @@ clic en sus nombres para más información:
 
 1. :doc:`Resonador_Bruker`
 
-2. [General Electric Discovery MR750 (3 T)](./Resonadores:GE)
+2. :doc:`Resonador_GE`
 
-3. [Philips Achieva TX (3 T)](./Resonadores:Philips)
+3. :doc:`Resonador_Philips`
+
