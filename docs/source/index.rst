@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+¡Bienvenido a la documentación de Don Clusterio!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'clusterioinb'
+copyright = '2025, L. Concha, santosg57'
+author = 'L. Concha, santosg57'
 
 release = '0.1'
 version = '0.1.0'
