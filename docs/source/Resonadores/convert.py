@@ -1,16 +1,20 @@
 import sys
 print (sys.argv)
 
-dev Encuentra_corch_paren(ss=''):
-  i = find(ss, '](.')
-  print(i)
-  i2 = find(ss, ')', i+1)
-  i1 = Busca_Izquierda(ss, '[', i)
-  print(i1, i2)
-  sub = ss[i1:i2]
-  print(sub)
+def Encuentra_corch_paren(ss=''):
+  i = ss.find('](.')
+#  print(i)
+  i2 = ss.find(')', i+1)
+  tit2 = ss[i+4:i2]
+#  print(tit2)
+  j1 = Busca_Izquierda(ss, '[', i)
+  tit1 = ss[j1:i]
+#  print(tit1)
+  ssN = ss[:j1-1]+':doc:`'+tit2+ '`' + ss[i2+1:]
+  print(ssN)
 
-def Busca_Izquiera(ss='', car='', pos=0):
+  
+def Busca_Izquierda(ss='', car='', pos=0):
   i = pos
   i1 = -1
   while  i > 0:
@@ -24,12 +28,12 @@ def Busca_Izquiera(ss='', car='', pos=0):
 def Encuentra_http(ss=''):
   i = ss.find('http:')
   i2 = ss.find(')', i+1)
-  i1 = Busca_Izquiera(ss, '(', i-1)
+  i1 = Busca_Izquierda(ss, '(', i-1)
   print(i1, i2)
   http = ss[i1:i2]
   print(http)
-  k2 = Busca_Izquiera(ss, ']', i1)-1
-  k1 = Busca_Izquiera(ss, '[', k2)
+  k2 = Busca_Izquierda(ss, ']', i1)-1
+  k1 = Busca_Izquierda(ss, '[', k2)
   titulo = ss[k1:k2]
   print(titulo)  
   ssN = ss[:k1-1]+'`'+titulo+'<'+http+'>`_' + ss[i2+1:]
