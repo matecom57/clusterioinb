@@ -1,4 +1,4 @@
-Resonadores - 1
+Resonadores - 2
 ===========
 
 Encuentra información sobre uso de resonadores, y cómo transferir datos.
