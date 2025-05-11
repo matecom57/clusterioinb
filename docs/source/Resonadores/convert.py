@@ -12,7 +12,7 @@ def Encuentra_corch_paren(ss=''):
 #  print(tit1)
   ssN = ss[:j1-1]+':doc:`'+tit2+ '`' + ss[i2+1:]
   print(ssN)
-
+  return ssN
   
 def Busca_Izquierda(ss='', car='', pos=0):
   i = pos
@@ -38,7 +38,7 @@ def Encuentra_http(ss=''):
   print(titulo)  
   ssN = ss[:k1-1]+'`'+titulo+'<'+http+'>`_' + ss[i2+1:]
   print(ssN)  
-  
+  return ssN  
  
 nombre = sys.argv[1]
 
@@ -46,16 +46,23 @@ filin = open(nombre+'.md', 'r')
 datos = filin.readlines()
 filin.close
 
-#filon = open(nombre+'.rst', 'w')
+filon = open(nombre+'.rst', 'w')
 
 i = 0
 for ss in datos:
+  ss = ss.replace('\n', '')
   print(ss)
-  if 'http:' in ss:
-    print(str(i)+ ' - '+ss)
-    Encuentra_http(ss)
-  if '](.' in ss:
-     Encuentra_corch_paren(ss)
+  if len(ss) > 0:
+    if 'http:' in ss:
+      print(str(i)+ ' - '+ss)
+      ss = Encuentra_http(ss)
+    elif "](." in ss:
+      ss = Encuentra_corch_paren(ss)
+  print(ss)
+  filon.write(ss+'\n')
+
+filon.close()
+
 
 
 
