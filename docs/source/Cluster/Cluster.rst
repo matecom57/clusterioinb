@@ -32,7 +32,7 @@ En la entrada :doc:`Cluster_Respaldo-de-datos` podemos encontrar en qué consist
 Comandos básicos del clúster
 -----------------------
 
-En la entrada  :doc:`Bash:-Gestion-de-procesos` encontramos los principales comandos para monitorear los trabajos, eliminar trabajos con error y para revisar la carga del clúster.
+En la entrada  :doc:`Bash_Gestion-de-procesos` encontramos los principales comandos para monitorear los trabajos, eliminar trabajos con error y para revisar la carga del clúster.
 
 Módulos
 -----------------------
@@ -43,7 +43,7 @@ Los módulos es una forma de cargar los softwares a tu sesión de manera fácil 
 Uso del clúster
 -----------------------
 
-En la entrada :doc:`Cluster_Uso-del-clúster` podemos encontrar ejemplos para hacer ejecuciones en el clúster.
+En la entrada :doc:`Cluster_Uso-del-cluster` podemos encontrar ejemplos para hacer ejecuciones en el clúster.
 
 Errores del clúster
 -----------------------
