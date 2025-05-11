@@ -1,3 +1,6 @@
+Procesamiento Imagen
+====================
+
 Las imágenes médicas, en este caso de resonancia magnética, por si solas solamente nos brindan información cualitativa, lo cual si estamos en el ámbito de la investigación pues no resulta altamente informativa. Por eso el procesamiento de estas imágenes viene de gran relevancia, ya que através del procesamiento nosotros vamos a poder extraer y destacar información importante de modo que facilité su posterior análisis. 
 
 El tipo de procesamiento dependerá absolutamente del tipo de imágen que estes trabajando, es decir, no es lo mismo procesar imágenes anatómicas T1w a imágenes pesadas a difusión. Tambíen te encontraras que la comunidad de científicos que desarrollan estas herramientas es _muy_ activa, por lo tanto existen vaaarias opciones. En esta entrada vas a encontrar los softwares que más se utilizan, que son robustos y sobre todo bien documentados.  
