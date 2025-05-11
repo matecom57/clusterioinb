@@ -1,6 +1,15 @@
 import sys
 print (sys.argv)
 
+dev Encuentra_corch_paren(ss=''):
+  i = find(ss, '](.')
+  print(i)
+  i2 = find(ss, ')', i+1)
+  i1 = Busca_Izquierda(ss, '[', i)
+  print(i1, i2)
+  sub = ss[i1:i2]
+  print(sub)
+
 def Busca_Izquiera(ss='', car='', pos=0):
   i = pos
   i1 = -1
@@ -41,6 +50,8 @@ for ss in datos:
   if 'http:' in ss:
     print(str(i)+ ' - '+ss)
     Encuentra_http(ss)
+  if '](.' in ss:
+     Encuentra_corch_paren(ss)
 
 
 
