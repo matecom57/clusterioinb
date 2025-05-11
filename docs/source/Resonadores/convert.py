@@ -26,7 +26,7 @@ def Busca_Izquierda(ss='', car='', pos=0):
   return i1
 
 def Encuentra_http(ss=''):
-  i = ss.find('http:')
+  i = ss.find('http')
   i2 = ss.find(')', i+1)
   i1 = Busca_Izquierda(ss, '(', i-1)
   print(i1, i2)
@@ -53,7 +53,7 @@ for ss in datos:
   ss = ss.replace('\n', '')
   print(ss)
   if len(ss) > 0:
-    if 'http:' in ss:
+    if 'http' in ss:
       print(str(i)+ ' - '+ss)
       ss = Encuentra_http(ss)
     elif "](." in ss:
