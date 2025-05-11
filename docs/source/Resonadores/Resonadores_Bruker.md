@@ -25,6 +25,7 @@ Los datos que se almacenan en el bruker estan en ruta `/misc/bruker7/data01/` o 
 
 ```
 cd /misc/bruker7/data02/user/mi_usuario
+
 ```
 
 Lo siguiente es localizar los archivos que deseas convertir. Puedes buscarlos al usar el comando `ls` o maás fácil, buscarlo utilizando un `*` si sabes el nombre de tu archivo. 

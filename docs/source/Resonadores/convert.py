@@ -2,16 +2,19 @@ import sys
 print (sys.argv)
 
 def Procesa_Comas(ss='', i=0):
-  filon.write('.. code::Bash\n')
+  filon.write('.. code::Bash')
+  filon.write('\n\n')
   ban = 1
+  i = i+1
   while ban == 1:
     ss = datos[i]
     if '```' in ss:
       ban = 0
+      i=i+1
     else:
       filon.write('   '+ss)
       i = i+1
-  return i+1
+  return i
 
 def Encuentra_corch_paren(ss=''):
   i = ss.find('](.')
@@ -71,17 +74,18 @@ ld = len(datos)
 while i < ld:
   ss = datos[i]
   ss=ss.replace('\n', '')
-  if '```' in ss:
-    i = Procesa_Comas(ss,i+1)
-  ss=ss.replace('`','``')
   if len(ss) > 0:
-    if 'http' in ss:
-      print(str(i)+ ' - '+ss)
-      ss = Encuentra_http(ss)
-    elif "](." in ss:
-      ss = Encuentra_corch_paren(ss)
-  print(ss)
-  filon.write(ss+'\n')
+    if '```' in ss:
+      i = Procesa_Comas(ss,i)
+    else:
+      ss=ss.replace('`','``')
+      if 'http' in ss:
+        ss = Encuentra_http(ss)
+      elif "](." in ss:
+        ss = Encuentra_corch_paren(ss)
+      filon.write(ss+'\n')
+  else:
+    filon.write(ss+'\n')
   i = i+1
 
 filon.close()
