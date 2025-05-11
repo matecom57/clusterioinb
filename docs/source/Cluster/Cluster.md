@@ -17,9 +17,9 @@ Para cambiar tu contraseña, usa el comando `yppasswd`.
 
 La más importante a conocer acerca de como guardar tus datos usando tu usuario en el clúster:
 
-+ Folder del usuario [/home](./Clúster:-Folder-usuario-(home))
-+ Folder de almacenamiento [/misc](./Clúster:-Folder-almacenamiento-(misc))
-+ Folder temporal [/tmp](./Clúster:-Folder-temporal-(tmp))
++ Folder del usuario [/home](./Cluster_Folder-usuario-home)
++ Folder de almacenamiento [/misc](./Cluster_Folder-almacenamiento-misc)
++ Folder temporal [/tmp](./Cluster_Folder-temporal-tmp)
 
 ## Respaldo de datos
 

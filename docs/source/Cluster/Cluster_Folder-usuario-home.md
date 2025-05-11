@@ -1,3 +1,6 @@
+/home
+=====
+
 ## ¿Qué es el Home?
 
 El home es un espacio que pertenece a cada usuario, es el lugar dónde nos encontramos al iniciar sesión. Suele tener permisos de __escritura/lectura__ exclusivos para el usuario al que pertenece. También aquí suelen residir los archivos de configuración exclusivos para el usuario.
