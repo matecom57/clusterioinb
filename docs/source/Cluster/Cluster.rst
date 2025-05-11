@@ -8,6 +8,7 @@ El término clúster (del inglés cluster, "grupo" o "racimo") se aplica a los c
 
 Cambio de contraseña (password):
 -----------------------
+
 Cada usuario puede cambiar su contraseña, y es recomendable hacerlo con cierta periodicidad. Utiliza una contraseña fuerte, que use letras mayúsculas y minúsculas, números y caracteres especiales. 
 
 Para cambiar tu contraseña, usa el comando ``yppasswd``.
@@ -26,12 +27,12 @@ La más importante a conocer acerca de como guardar tus datos usando tu usuario 
 Respaldo de datos
 -----------------------
 
-En la entrada :doc:`Clúster:-Respaldo-de-datos` podemos encontrar en qué consiste el respaldo de datos que se realizan al clúster, dónde se guardan y cómo nombrar a mis datos para que se respalden.
+En la entrada :doc:`Cluster_Respaldo-de-datos` podemos encontrar en qué consiste el respaldo de datos que se realizan al clúster, dónde se guardan y cómo nombrar a mis datos para que se respalden.
 
 Comandos básicos del clúster
 -----------------------
 
-En la entrada  :doc:`Bash:-Gestión-de-procesos` encontramos los principales comandos para monitorear los trabajos, eliminar trabajos con error y para revisar la carga del clúster.
+En la entrada  :doc:`Bash:-Gestion-de-procesos` encontramos los principales comandos para monitorear los trabajos, eliminar trabajos con error y para revisar la carga del clúster.
 
 Módulos
 -----------------------
@@ -42,12 +43,12 @@ Los módulos es una forma de cargar los softwares a tu sesión de manera fácil 
 Uso del clúster
 -----------------------
 
-En la entrada :doc:`Clúster:-Uso-del-clúster` podemos encontrar ejemplos para hacer ejecuciones en el clúster.
+En la entrada :doc:`Cluster_Uso-del-clúster` podemos encontrar ejemplos para hacer ejecuciones en el clúster.
 
 Errores del clúster
 -----------------------
 
-Aquí se encuentran los principales :doc:`Clúster:-Errores-del-clúster` cuando los jobs no corren.
+Aquí se encuentran los principales :doc:`Cluster_Errores-del-clúster` cuando los jobs no corren.
 
 
 !` <https://github.com/c13inb/c13inb.github.io/blob/master/images/donClusterio_01.png>`_
