@@ -25,14 +25,16 @@ Este comando es útil en varias cuestiones, por ejemplo, nos puede mostrar los p
 
 Parámetros:
 
+```
      -a Muestra todos los procesos con un control, este comando no sólo muestra datos del usario actual.
      -r Muestra sólo los procesos que están en ejecución
      -x Muestra procesos, de los cuáles la terminal no tiene control.
      -u Muestra los procesos del propio usuario (owner process)
      -l Muestra los datos en formato de una lista larga
      -w Muestra procesos de la línea de comandos.
+```
 
-##free -h
+## free -h
 
 Muestra el estado de la memoria del CPU actual.
 
@@ -40,10 +42,14 @@ Muestra el estado de la memoria del CPU actual.
 
 Muestra el espacio libre de los discos/dispositivos. Legible a humanos (-h)
 
+```
       df -h
+```
 
 ## ping
 
 Indica si hay respuesta por parte del servidor
 
+```
       ping mansfield
+```
