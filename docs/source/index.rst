@@ -42,20 +42,10 @@ Contenido
 
 .. toctree::
     :maxdepth: 1
-    :caption: Unix for Neuroimagers
+    :caption: Cluster
     
-    unix/Unix_Intro
-    unix/Unix_01_Navigation
-    unix/Unix_02_CopyRemove
-    unix/Unix_03_ReadingTextFiles
-    unix/Unix_04_ShellsVariables
-    unix/Unix_05_ForLoops
-    unix/Unix_06_IfElse
-    unix/Unix_07_Scripting
-    unix/Unix_08_Sed
-    unix/Unix_09_AutomatingTheAnalysis
-    
-    
+    Cluster/Cluster
+
 .. toctree::
     :maxdepth: 1
     :caption: fMRI Short Course with FSL
