@@ -95,6 +95,7 @@ por el número del trabajo que se quiere eliminar
 
 Si los trabajos no corren
 -----------------------
+
 Por favor revisa la [página donde se explican los posibles errores](?id=errorescluster)
 
 

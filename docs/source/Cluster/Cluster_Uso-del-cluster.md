@@ -98,6 +98,7 @@ Borra todos los trabajos del usuario.
 
 
 ## Si los trabajos no corren
+
 Por favor revisa la [página donde se explican los posibles errores](?id=errorescluster)
 
 
