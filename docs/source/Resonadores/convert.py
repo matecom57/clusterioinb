@@ -28,6 +28,15 @@ def Encuentra_corch_paren(ss=''):
   ssN = ss[:j1-1]+':doc:`'+tit2+ '`' + ss[i2+1:]
   print(ssN)
   return ssN
+
+def Procesa_Gato(ss):
+  i=1
+  while ss[i] == '#':
+    i = i+1
+  ss = ss[i+1:]
+  print(ss)
+  filon.write(ss+'\n')
+  filon.write('-----------------------\n')
   
 def Busca_Izquierda(ss='', car='', pos=0):
   i = pos
@@ -81,9 +90,12 @@ while i < ld:
       ss=ss.replace('`','``')
       if 'http' in ss:
         ss = Encuentra_http(ss)
+        filon.write(ss+'\n')
       elif "](." in ss:
         ss = Encuentra_corch_paren(ss)
-      filon.write(ss+'\n')
+        filon.write(ss+'\n')
+      elif "#" == ss[0]:
+        Procesa_Gato(ss)
   else:
     filon.write(ss+'\n')
   i = i+1
