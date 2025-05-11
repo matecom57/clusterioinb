@@ -34,6 +34,7 @@ def Procesa_Gato(ss):
   while ss[i] == '#':
     i = i+1
   ss = ss[i+1:]
+  print(ss)
   filon.write(ss+'\n')
   filon.write('-----------------------\n')
   
@@ -95,8 +96,6 @@ while i < ld:
         filon.write(ss+'\n')
       elif "#" == ss[0]:
         Procesa_Gato(ss)
-      else:
-        filon.write(ss+'\n')
   else:
     filon.write(ss+'\n')
   i = i+1
