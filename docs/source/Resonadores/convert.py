@@ -56,8 +56,8 @@ filon = open(nombre+'.rst', 'w')
 
 i = 0
 for ss in datos:
-  ss.replace('\n', '')
-  ss.replace('`','``')
+  ss=ss.replace('\n', '')
+  ss=ss.replace('`','``')
   if len(ss) > 0:
     if 'http' in ss:
       print(str(i)+ ' - '+ss)
