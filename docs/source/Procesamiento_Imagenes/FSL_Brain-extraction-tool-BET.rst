@@ -9,11 +9,10 @@ Elimina de las imágenes aquellas estructuras que rodean al cerebro (cráneo y m
   - Se pone el nuevo nombre del archivo.
   - Se escribe el grado de extracción que se desea, usualmente funciona con “-f 0.5”, pero el gradiente va desde 0 a 1, siendo los valores cercanos a 0 los más laxos, y los cercanos a 1 los de mayor extracción.
    
-```bash
-   Ejemplo:
-   datos/purcell/circe/tesis/imágenes bet s408.nii.gz bet408 –f 0.5
-```
+::
 
+      Ejemplo:
+      datos/purcell/circe/tesis/imágenes bet s408.nii.gz bet408 –f 0.5
 **Otra manera de explicarlo**
 
 Debe escribirse en el siguiente orden:
