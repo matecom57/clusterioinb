@@ -18,8 +18,8 @@ La transferencia de los datos se puede realizar en varios formatos:
 
 ***
 
-## Como exportar mis datos desde el Bruker
-
+Como exportar mis datos desde el Bruker
+---------------------------------------
 
 Los datos que se almacenan en el bruker estan en ruta `/misc/bruker7/data01/` o `/misc/bruker7/data02/` al cual podemos acceder de la siguiente manera: 
 
