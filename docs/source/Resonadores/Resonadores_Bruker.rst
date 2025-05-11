@@ -23,13 +23,13 @@ Como exportar mis datos desde el Bruker
 
 Los datos que se almacenan en el bruker estan en ruta ``/misc/bruker7/data01/`` o ``/misc/bruker7/data02/`` al cual podemos acceder de la siguiente manera: 
 
-.. code::Bash
+::
 
    cd /misc/bruker7/data02/user/mi_usuario
    
 Lo siguiente es localizar los archivos que deseas convertir. Puedes buscarlos al usar el comando ``ls`` o maás fácil, buscarlo utilizando un ``*`` si sabes el nombre de tu archivo. 
 
-.. code::Bash
+::
 
    ls *irm150d_rata64A*
 
@@ -37,7 +37,7 @@ Lo siguiente es localizar los archivos que deseas convertir. Puedes buscarlos al
 
 Donde ``20220104`` es la fecha de adquisición y ``INB_C13_hluna_irm150d_rata64A_INB_C13_hluna`` el nombre que le das a tu estudio. Si nosotros enlistamos (``ls``) esta carpeta para ver que hay adentro, veremos que hay carpetas enumeradas al inicio, estos corresponden a cada adquisición en el orden en el que fueron tomadas y son las que vamos a ir convirtiendo.
 
-.. code::Bash
+::
 
    ls 20220104_085643_INB_C13_hluna_irm150d_rata64A_INB_C13_hluna_1_1/
    
@@ -47,15 +47,15 @@ Bien, hasta aqui ya sabemos como acceder a tus imágenes del Bruker, siguiente p
 Paso numero uno es cargar el modulo de Bruker (gracias a Ricardo Rios que nos hizo la vida mas facil al crear los modulos, si aun no te familiarizas con ellos, da click `aquí <https://github.com/c13inb/c13inb.github.io/wiki/Modules>`_ y aprende mas a como usarlos.
 
 
-.. code::Bash
+::
 
    module load brkraw/0.3.11
 Una vez cargado el módulo estas listo para utilizarlo. Si quieres saber la información detallada de cada una de tus adquisiciones, puedes utilizar el comando ``brkraw info`` que nos despliega la siguiente información:
 
-.. code::Bash
+::
 
    brkraw info 20220104_085643_INB_C13_hluna_irm150d_rata64A_INB_C13_hluna_1_1/
-.. code::Bash
+::
 
    Paravision 7.0.0
    ----------------
@@ -111,7 +111,7 @@ Una vez cargado el módulo estas listo para utilizarlo. Si quieres saber la info
    
 Podría parecer mucha información al inicio, pero al final no es mas que los detalles del usuario y cada adquisición enumerada del ``[001]`` al ``[008]``. Aquí tu puedes decidir que imágen te sirve y cual quieres convertir. Como ejemplo yo voy a convertir una imágen anatómica pesada a T2 que es la número 008:
 
-.. code::Bash
+::
 
    brkraw tonii 20220104_085643_INB_C13_hluna_irm150d_rata64A_INB_C13_hluna_1_1/ -o /path/64A_dwi -r 1 -s 8
 
@@ -126,7 +126,7 @@ Podría parecer mucha información al inicio, pero al final no es mas que los de
 
 Para ver que tus imagenes se convirtieron exitosamente en formato Nifti, vamos a visualizarlas utilizando ``mrview`` del software ``mrtrix``. Para esto, no olvides cargar tu modulo: ``module load mrtrix/3.0.4``
 
-.. code::Bash
+::
 
    mrview 64A_T2.nii.gz
 Y el resultado es esto:

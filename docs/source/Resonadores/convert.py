@@ -2,7 +2,7 @@ import sys
 print (sys.argv)
 
 def Procesa_Comas(ss='', i=0):
-  filon.write('.. code::Bash')
+  filon.write('::')
   filon.write('\n\n')
   ban = 1
   i = i+1
