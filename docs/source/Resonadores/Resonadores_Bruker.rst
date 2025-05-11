@@ -116,6 +116,8 @@ Una vez que conviertes tus imágenes, estas listo para el siguiente paso que es 
 
 Tutoriales para el uso del resonador
 -----------------------
+
+
 * :doc:`Resonadores:Bruker:-Conexión-Cryo`
 * :doc:`Resonadores:Bruker:-Paravision-EXvivo`
 * :doc:`Resonadores:Bruker:-Wobble-Superficie`
@@ -123,6 +125,8 @@ Tutoriales para el uso del resonador
 
 Checklists para uso del resonador
 -----------------------
+
+
 * `Preparación antena Cryo <https://docs.google.com/document/d/1S850dGVnyL1k5UMD0Cf-ebfKXblKklNMRuPto7Vl66M/edit?usp=sharing>`_
 * `Preparación antena de volumen <https://docs.google.com/document/d/1pCrKejx-Q31kqw07g8t0ZBscDQr9n007i6fegMNHtMA/edit?usp=sharing>`_
 * `Checklist inicio Paravision <https://docs.google.com/document/d/1hwDM7ySkY2xqzBnHkGzsFiiu1vH7U6Af9pxxcvGMHR4/edit?usp=sharing>`_
