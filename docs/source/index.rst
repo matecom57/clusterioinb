@@ -48,18 +48,8 @@ Contenido
 
 .. toctree::
     :maxdepth: 1
-    :caption: fMRI Short Course with FSL
+    :caption: Procesamiento_Imagenes
     
-    fMRI_Short_Course/fMRI_Intro
-    fMRI_Short_Course/fMRI_01_DataDownload
-    fMRI_Short_Course/fMRI_02_ExperimentalDesign
-    fMRI_Short_Course/fMRI_03_LookingAtTheData
-    fMRI_Short_Course/fMRI_04_Preprocessing
-    fMRI_Short_Course/fMRI_05_1stLevelAnalysis
-    fMRI_Short_Course/fMRI_06_Scripting
-    fMRI_Short_Course/fMRI_07_2ndLevelAnalysis
-    fMRI_Short_Course/fMRI_08_3rdLevelAnalysis
-    fMRI_Short_Course/fMRI_09_ROIAnalysis
-    fMRI_Short_Course/fMRI_10_Summary
-    fMRI_Short_Course/fMRI_Appendices
+    Procesamiento_Imagenes/Procesamiento_Imagen
+
 
