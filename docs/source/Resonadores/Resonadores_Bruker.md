@@ -150,7 +150,7 @@ Una vez que conviertes tus imágenes, estas listo para el siguiente paso que es 
 
 Las siguientes páginas de la wiki incluyen algunos tutoriales para el uso básico del resonador.
 
-* [Desconexión de la antena de superficie 2x2 y conexión de la antena cryo.](./Resonadores_Bruker_Conexión-Cryo)
+* [Desconexión de la antena de superficie 2x2 y conexión de la antena cryo.](./Resonadores_Bruker_Conexion-Cryo)
 * [Operación del programa Paravision para la adquisición de imágenes ex-vivo.](./Resonadores_Bruker_Paravision-EXvivo)
 * [Sintonización de la antena de volumen, para escaneos con antena de superficie 2x2.](./Resonadores_Bruker_Wobble-Superficie)
 + [Generar mapas de B1](./Bruker-B1Map.md)

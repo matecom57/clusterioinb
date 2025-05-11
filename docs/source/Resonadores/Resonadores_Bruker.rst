@@ -143,7 +143,7 @@ Tutoriales para el uso del resonador
 
 Las siguientes páginas de la wiki incluyen algunos tutoriales para el uso básico del resonador.
 
-* :doc:`Resonadores_Bruker_Conexión-Cryo`
+* :doc:`Resonadores_Bruker_Conexion-Cryo`
 * :doc:`Resonadores_Bruker_Paravision-EXvivo`
 * :doc:`Resonadores_Bruker_Wobble-Superficie`
 + :doc:`Bruker-B1Map.md`
