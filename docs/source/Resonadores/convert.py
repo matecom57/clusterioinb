@@ -36,7 +36,7 @@ def Encuentra_http(ss=''):
   k1 = Busca_Izquierda(ss, '[', k2)
   titulo = ss[k1:k2]
   print(titulo)  
-  ssN = ss[:k1-1]+'`'+titulo+'<'+http+'>`_' + ss[i2+1:]
+  ssN = ss[:k1-1]+'`'+titulo+' <'+http+'>`_' + ss[i2+1:]
   print(ssN)  
   return ssN  
  
