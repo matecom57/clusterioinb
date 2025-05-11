@@ -118,9 +118,9 @@ Tutoriales para el uso del resonador
 -----------------------
 
 
-* :doc:`Resonadores:Bruker:-Conexión-Cryo`
-* :doc:`Resonadores:Bruker:-Paravision-EXvivo`
-* :doc:`Resonadores:Bruker:-Wobble-Superficie`
+* :doc:`Resonadores_Bruker_Conexión-Cryo`
+* :doc:`Resonadores_Bruker_Paravision-EXvivo`
+* :doc:`Resonadores_Bruker_Wobble-Superficie`
 + :doc:`Bruker-B1Map.md`
 
 Checklists para uso del resonador
