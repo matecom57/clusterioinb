@@ -41,6 +41,7 @@ def Encuentra_http(ss=''):
   if ss.find('http') > 0:
     ssN = ssN + Encuentra_http(ss)
   else:
+    ssN = ssN+ss
     return ssN
   print(ssN)  
   return ssN  
