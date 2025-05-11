@@ -50,6 +50,6 @@ Contenido
     :maxdepth: 1
     :caption: Procesamiento_Imagenes
     
-    Procesamiento_Imagenes/Procesamiento_Imagen
+    Procesamiento_Imagenes/Procesamiento-Imagen
 
 
