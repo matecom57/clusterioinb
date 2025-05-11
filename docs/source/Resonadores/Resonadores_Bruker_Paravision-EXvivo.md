@@ -1,3 +1,6 @@
+Resonadores:Bruker: Paravision EXvivo
+=====================================
+
 Operación del programa Paravision para la adquisición de imágenes ex-vivo
 
 1.- Para crear un nuevo estudio, se da clic en File de la barra de herramientas. Aparece una ventana y se selecciona la opción de new file.

@@ -1,3 +1,6 @@
+Resonadores:Bruker: Conexión Cryo
+=================================
+
 Desconexión de la antena de superficie 2x2 y conexión de la antena cryo.
 
 1.- En caso de que el anterior usuario haya utilizado la antena de superficie 2x2, será necesario desconectar todos los elementos mencionados a continuación:

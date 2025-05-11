@@ -1,3 +1,6 @@
+Resonadores:Bruker: Wobble Superficie
+=====================================
+
 Sintonización de la antena de volumen, para escaneos con antena de superficie 2x2.
 
 1.- Una vez que hayamos colocado en el soporte a nuestro sujeto, creado un nuevo archivo y arrastrado el primer localizador al área de trabajo, pero sin iniciarlo, se procederá a realizar el Wobble.
