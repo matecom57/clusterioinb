@@ -40,7 +40,6 @@ Contenido
 
    modificar_wiki/Modificar-Wiki
 
-
 .. toctree::
    :maxdepth: 1
    :caption: rocket.chat
@@ -52,6 +51,12 @@ Contenido
    :caption: Resonadores
 
    Resonadores/Resonadores
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Bash
+
+   Bash/Bash
 
 .. toctree::
     :maxdepth: 1
