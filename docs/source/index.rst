@@ -43,6 +43,12 @@ Contenido
 
 .. toctree::
    :maxdepth: 1
+   :caption: rocket.chat
+
+   rocket_chat/rocket.chat.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: Resonadores
 
    Resonadores/Resonadores
