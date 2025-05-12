@@ -13,8 +13,7 @@ En la sección [Comandos Básicos](./Bash_Comandos-Basicos) se encuntran una ser
 bash que permiten la interacción con el sistema.
 
 El 95% de todos los comandos, trucos y piruetas que **se recomienda que todo integrante del laboratorio sepa** están 
-agradablemente compilados en un TUTORIAL de la gente que hace el fsl, el cual puede consultarse 
-[aquí](https://open.win.ox.ac.uk/pages/fslcourse/lectures/scripting/all.htm). **NOTA**: En ese tutorial utilizan el 
+agradablemente compilados en un TUTORIAL de la gente que hace el fsl, el cual puede consultarse [aquí](https://open.win.ox.ac.uk/pages/fslcourse/lectures/scripting/all.htm). **NOTA**: En ese tutorial utilizan el 
 lenguaje de shell llamado `sh`, que está localizado en `/bin/sh`, mientras que en el laboratorio habitualmente 
 utilizamos `bash`, que está en `/bin/bash`. Los dos lenguajes hacen prácticamente lo mismo y tienen una sintaxis casi 
 idéntica, con ligeras diferencias que pueden consultarse 
