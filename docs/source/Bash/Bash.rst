@@ -23,7 +23,8 @@ idéntica, con ligeras diferencias que pueden consultarse
 tutorial: ``AQUI <hxtps://command-line-tutorial.readthedocs.io/>``_
 
 
-bash - Avanzado ##
+bash - Avanzado 
 -----------------------
 
-Una vez aprendidos los comandos básicos puede consultar la sección de bash :doc:`Bash:-Avanzado`, la cual contiene comandos que te  permitirán realizar muchas más acciones en la terminal.
+Una vez aprendidos los comandos básicos puede consultar la sección de bash :doc:`Bash_Avanzado`, la cual contiene 
+comandos que te  permitirán realizar muchas más acciones en la terminal.
