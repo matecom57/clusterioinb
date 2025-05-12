@@ -1,3 +1,6 @@
+Permisos
+========
+
 ## Ajuste de permisos para trabajos en el clúster
 
 Es muy importante entender el tema de los permisos ya que al estar trabajando en el clúster, si no tienes los permisos necesarios, esto puede limitar mucho tu trabajo. 
@@ -73,13 +76,17 @@ Donde estoy especificando que `mi_script.sh` pueda ser ejecutado (`x`) por cualq
 ---
 
 También puedes asignar el grupo ya sea fmriuser o bioinfo a una carpeta, subcarpetas y los archivos que contenga, se puede usar el comando:
+
 ``` 
 chown -R usuario:grupo carpeta/
 ```
+
 Y para permitir escritura y lectura al grupo usas:
+
 ```
 chmod -R g+rwx carpeta/
 ```
+
 Sin embargo, puede ocurrir que no se pueda cambiar el grupo si no somos los dueños de la carpeta en cuestión. Si es necesario ajustar el grupo y por alguna razón no funciona el comando, el administrador del equipo en cuestión puede realizar el cambio.
 
 
