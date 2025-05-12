@@ -1,3 +1,6 @@
+Sed
+===
+
 El comando `sed` (**s**tream **ed**itor) es una herramienta muy poderosa y elegante para la manipulación de texto. El comando te permite realizar operaciones de búsqueda, sustitución y manipulación de texto ya sea en archivos o basicamente de cualquier argumento de salida de otros comandos. Veamos un poco más.
 
 ### Sintaxis basica
