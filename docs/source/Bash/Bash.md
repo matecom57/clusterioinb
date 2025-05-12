@@ -9,7 +9,8 @@ Con la intención de facilitar su uso, aquí encontrarás una lista de comandos 
 
 ## bash - Comandos Básicos ##
 
-En la sección [Comandos Básicos](./Bash:-Comandos-Básicos) se encuntran una serie de comandos frequentemente utilizados en bash que permiten la interacción con el sistema.
+En la sección [Comandos Básicos](./Bash_Comandos-Basicos) se encuntran una serie de comandos frequentemente utilizados en 
+bash que permiten la interacción con el sistema.
 
 El 95% de todos los comandos, trucos y piruetas que **se recomienda que todo integrante del laboratorio sepa** están 
 agradablemente compilados en un TUTORIAL de la gente que hace el fsl, el cual puede consultarse 
