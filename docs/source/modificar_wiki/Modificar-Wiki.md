@@ -11,7 +11,8 @@ Para ello primero necesitas ser colaborador del siguiente repositorio: `AQUÍ
 <hxtps://github.com/c13inb/c13inb.github.io>`_
 Para esto deberás contactar al Doctor Concha y darle tu usuario de github.
 
-Ya siendo colaborador puedes modificar la wiki con las opciones de manera web o local como se describe por aca: https://docs.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages
+Ya siendo colaborador puedes modificar la wiki con las opciones de manera web o local como se describe por aca: 
+`AQUÍ hxtps://docs.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages`_
 
 La wiki esta escrita en lenguaje Markdown. Es muy simple de aprender y utilizar. Una googleada y unos 20 mins bastara. Para ver un cheatsheet de uso puedes empezar en este [tutorial](https://guides.github.com/features/mastering-markdown/)
 
