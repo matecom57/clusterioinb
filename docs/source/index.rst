@@ -36,6 +36,13 @@ Contenido
 
 .. toctree::
    :maxdepth: 1
+   :caption: Modificar la Wiki
+
+   modificar_wiki/Modificar-Wiki
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Resonadores
 
    Resonadores/Resonadores
