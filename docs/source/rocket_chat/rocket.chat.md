@@ -1,8 +1,7 @@
 Rocket.chat
 ===========
 
-El rocket.chat de Red-Lanirem está en la siguiente dirección:
-https://chat-lanirem.lavis.unam.mx
+El rocket.chat de Red-Lanirem está en la siguiente dirección: `AQUÍ <https://chat-lanirem.lavis.unam.mx>`_
 
 :rotating_light: **Ya tienes cuenta y no puedes entrar desde la app de tu teéfono?** :arrow_right: [Sigue este link.](https://hackmd.io/EUm9hfDcRYecYU_Uov5lNA?view)
 
@@ -13,7 +12,7 @@ Si es la primera vez que nos visitas, crea una nueva cuenta (*Register a new acc
 
 
 Lo más recomendable es instalar las aplicaciones oficiales de rocket.chat, disponibles para Windows, Mac, y Linux, así como para teléfonos iOS y Android, disponibles en el siguiente link:
-https://rocket.chat/install/
+`AQUÍ <hxtps://rocket.chat/install/`_
 
 Si no quieres instalar las aplicaciones, puedes usar rocket.chat directamente en tu navegador web con la URL arriba mencionada.
 
@@ -31,7 +30,6 @@ Para escribir, utiliza la caja hasta abajo de la página. En esa página puedes 
 ![](https://i.imgur.com/EFkbsem.png)
 
 El botón de micrófono te permite enviar mensajes de voz. El botón `+` te permite anexar archivos. Puedes también escribir con [markdown](https://markdown.es/sintaxis-markdown/).
-
 
 
 Los usuarios pueden ser *mencionados*, antecediendo su nombre con `@`. Esto permite que la persona mencionada reciba una notificación. El sistema es inteligente, y al escribir la @ y comenzar a escribir el nombre, aparecerán las opciones más cercanas. Los canales son ligados si se les menciona utilizando `#`. 
