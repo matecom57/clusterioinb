@@ -7,8 +7,7 @@ mucho uso.
 
 Lo confuso de este esquema es que la wiki es un sub-repositorio que existe dentro de otro repositorio. Lamentablemente no tienes todas las comodidades que ofrece github para el manejo del repositorio principal (funcionalidades de pull request e interfaz grafica de commits etc) pero aun así podemos trabajar en ella colaborativamente.
 
-Para ello primero necesitas ser colaborador del siguiente repositorio: `AQUÍ 
-<https://github.com/c13inb/c13inb.github.io>`_
+Para ello primero necesitas ser colaborador del siguiente repositorio: `AQUÍ <https://github.com/c13inb/c13inb.github.io>`_
 Para esto deberás contactar al Doctor Concha y darle tu usuario de github.
 
 Ya siendo colaborador puedes modificar la wiki con las opciones de manera web o local como se describe por aca: https://docs.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages
