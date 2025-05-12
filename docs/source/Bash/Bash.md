@@ -1,3 +1,6 @@
+Bash
+====
+
 Bash es un intérprete de comandos que viene por defecto en los sistemas **Linux y Mac**.  Este programa interpreta órdenes que el sistema operativo llevará a cabo. Permite un control de las tareas comunes del sistema y es de gran utilidad para la automatización de tareas.  Sin embargo, dado que el **shell bash** requiere el manejo fluido comandos, la curva de aprendizaje suele ser lenta.
 
 
