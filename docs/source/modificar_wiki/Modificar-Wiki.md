@@ -1,8 +1,7 @@
 Como colaborar en la Wiki
 =========================
 
-La wiki del C-13 en la actualidad esta albergada como una pagina wiki de gitHub como parte del repositorio: 
-AQUÍ <https://github.com/c13inb/c13inb.github.io> . Este repositorio es una pagina web hecha por Raul para el lab sin 
+La wiki del C-13 en la actualidad esta albergada como una pagina wiki de gitHub como parte del repositorio: AQUÍ <https://github.com/c13inb/c13inb.github.io> . Este repositorio es una pagina web hecha por Raul para el lab sin 
 mucho uso.
 
 Lo confuso de este esquema es que la wiki es un sub-repositorio que existe dentro de otro repositorio. Lamentablemente no tienes todas las comodidades que ofrece github para el manejo del repositorio principal (funcionalidades de pull request e interfaz grafica de commits etc) pero aun así podemos trabajar en ella colaborativamente.
