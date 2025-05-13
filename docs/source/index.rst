@@ -82,4 +82,8 @@ Contenido
 
     DW-MRI/DWMRI
 
+.. toctree::
+    :maxdepth: 1
+    :caption: FIJI - Análisis histológico
 
+    FIJI-Analisis_histologico/FIJI
