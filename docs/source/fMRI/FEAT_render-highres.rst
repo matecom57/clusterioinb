@@ -1,7 +1,8 @@
 FEAT render highres
 ===================
 
-### ¿Para qué sirve el comando render highres?
+¿Para qué sirve el comando render highres?
+-----------------------
 
 Este comando permite integrar como una sola imagen un fondo anatómico o funcional con un mapa estadístico de activación.
 
