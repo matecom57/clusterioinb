@@ -1,4 +1,4 @@
-Mapas cuantitativos: fslstats
+Reorientar imágenes
 =============================
 
 ## Para visualizar de manera "normal" las imágenes (tanto funcionales como estructurales) 
