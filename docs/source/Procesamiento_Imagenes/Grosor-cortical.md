@@ -1,4 +1,4 @@
-Grosor cortical
+FreeSurfer
 ===============
 
 ## Grosor cortical 
