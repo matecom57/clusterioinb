@@ -19,13 +19,12 @@ Los resultados van en el orden en que los pedí: la media de FA es de 0.869, su 
 
 No estamos casados con fsl, así que podemos usar mrstats (parte de mrtrix):
 
-``` bash
-mrstats fa.nii -mask miROI.nii 
-channel         mean        std. dev.   min         max         count
-[ ]             0.869577    0.0548657   0.745245    0.980753    30  
+::
 
-```
-
+   mrstats fa.nii -mask miROI.nii 
+   channel         mean        std. dev.   min         max         count
+   [ ]             0.869577    0.0548657   0.745245    0.980753    30  
+   
 En general, fslstats tiene más opciones de salida que mrstats.
 
 Ojo, que la máscara que acepta fslstats como ROI debe ser binaria (ceros en todos lados, excepto lo que me interesa). En efecto, todo lo que no valga cero, fslstats lo convierte en uno, así que aguas.
@@ -38,16 +37,16 @@ Con esto logramos extraer el cluster 3, binarizarlo, y ponerlo en el archivo miR
 
 Dado que esta es una operación frecuente, existe un script en el lab para facilitar lo arriba mencionado:
 
-```bash
-fslstats_rois data.nii.gz rois.nii.gz roi_idx stats
+::
 
-  data.nii.gz : The file from which we want stats
-	rois.nii.gz : A file with several ROIs drawn, each one with a different voxel value (ints)
-	roi_idx     : The voxel value of the ROI that we want
-	stats	    : The list of statistics we want, as in fslstats options. 
-		      If using more than one switch, put it between quotes, as in the example.
-
-
- Example :
-	fslstats_rois data.nii.gz rois.nii.gz 4 "-m -s -c"
-```
+   fslstats_rois data.nii.gz rois.nii.gz roi_idx stats
+   
+     data.nii.gz : The file from which we want stats
+   	rois.nii.gz : A file with several ROIs drawn, each one with a different voxel value (ints)
+   	roi_idx     : The voxel value of the ROI that we want
+   	stats	    : The list of statistics we want, as in fslstats options. 
+   		      If using more than one switch, put it between quotes, as in the example.
+   
+   
+    Example :
+   	fslstats_rois data.nii.gz rois.nii.gz 4 "-m -s -c"
