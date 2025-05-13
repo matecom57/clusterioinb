@@ -1,4 +1,9 @@
+Compresión/Descomprensión de imágenes
+=====================================
+
 ## Compresión de archivo
+
+
 Comprime las imágenes en formato `.tar` para poder subirlas al cluster, después de la obtención de datos en el resonador:
 
   - En la máquina de la unidad de resonancia, buscar el nombre del sujeto de estudio (actualmente en la carpeta "dicom2015").
