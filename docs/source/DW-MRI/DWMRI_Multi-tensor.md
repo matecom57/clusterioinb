@@ -1,3 +1,7 @@
+Multi-resolution discrete-search
+================================
+
+
 ## MULTI-RESOLUTION DISCRETE-SEARCH
 
 En este manual repasaremos paso por paso como implementar el método multi-tensor MRDS desarrollado por el Dr. Ricardo Coronado-Leija, para literatura mas extensa de como funciona el método, porfavor consulta el artículo [aquí](https://www.sciencedirect.com/science/article/abs/pii/S1361841517300956).
