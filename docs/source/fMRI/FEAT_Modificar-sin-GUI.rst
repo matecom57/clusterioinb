@@ -1,7 +1,8 @@
 Ejemplo sin GUI
 ===============
 
-# Para hacer modificaciones a tu modelo sin utilizar el GUI
+Para hacer modificaciones a tu modelo sin utilizar el GUI
+-----------------------
 
 Este truco te ayudará cuando el GUI de FEAT:
 
