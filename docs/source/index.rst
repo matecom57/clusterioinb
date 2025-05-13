@@ -76,5 +76,10 @@ Contenido
 
     fMRI/fMRI
 
+.. toctree::
+    :maxdepth: 1
+    :caption: DW-MRI
+
+    DW-MRI/DWMRI
 
 
