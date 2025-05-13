@@ -25,9 +25,17 @@ Para el análisis del grosor cortical utilizando Freesurfer se necesitan imágen
 
 2. Ahora se procede a asignar un nombre al sujeto, si es DICOM se usa el primero (a) o si es nifti, se usa toda la carpeta (b):
 
-   a) ``` recon-all  -all -subjid nombredelsujeto -i /datos/maquina/usuario/CarpetaA/nombredelsujeto/0001.dcm ```
+   a) 
 
-   b) ``` recon-all  -all -subjid nombredelsujeto -i /datos/maquina/usuario/CarpetaA/nombred ```
+``` 
+recon-all  -all -subjid nombredelsujeto -i /datos/maquina/usuario/CarpetaA/nombredelsujeto/0001.dcm 
+```
+
+   b) 
+
+``` 
+recon-all  -all -subjid nombredelsujeto -i /datos/maquina/usuario/CarpetaA/nombred 
+```
 
 :warning: A partir de enero de 2021 la versión por default es la 7.0. 
 
