@@ -2,7 +2,7 @@ MELODIC
 =======
 
 
-Para llevar a cabo un análisis de componentes independientes en Melodic es necesario contar con los archivos del "resting state" en formato NIfTI y las imágenes estructurales deben ser sometidas a la extracción de cerebro utilizando la herramienta [brain extraction tool](https://github.com/rcruces/C-13_wiki_demo/wiki/Brain-extraction-tool-bet).  
+Para llevar a cabo un análisis de componentes independientes en Melodic es necesario contar con los archivos del "resting state" en formato NIfTI y las imágenes estructurales deben ser sometidas a la extracción de cerebro utilizando la herramienta `brain extraction tool <https://github.com/rcruces/C-13_wiki_demo/wiki/Brain-extraction-tool-bet>`_.  
 
 *Es altamente recomendado que se utilcen las funciones por defecto con las que se ejecuta Melodic a menos de estar seguro que se deben alterar los parámetros*.
 
