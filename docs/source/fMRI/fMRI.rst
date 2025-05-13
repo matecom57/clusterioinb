@@ -10,6 +10,8 @@ Herramientas para fMRI
 
 + :doc:`FSL`
 + :doc:`FEAT`
-+ :doc:`FSL:-Melodic`. Herramienta de análisis de componentes independientes (ICA). Utilizado para descomponer un único o múltiples conjuntos de datos 4D en diferentes componentes espaciales y temporales. Usualmente utilizado en secuencias de "resting-state".
-+ :doc:`FSL:-project-to-fsaverage`. Cómo proyectar resultados volumétricos de espacio MNI a la superficie promedio fsaverage.
++ :doc:`FSL_Melodic`. Herramienta de análisis de componentes independientes (ICA). Utilizado para descomponer un 
+único o múltiples conjuntos de datos 4D en diferentes componentes espaciales y temporales. Usualmente utilizado en secuencias de "resting-state".
++ :doc:`FSL_project-to-fsaverage`. Cómo proyectar resultados volumétricos de espacio MNI a la superficie promedio 
+fsaverage.
 + :doc:`BIDS`. Estándar de almacenamiento de datos para trabajar con fMRI, DWI e imágenes anatómicas, mediante herramientas que favorecen la reproducibilidad de los análisis.
