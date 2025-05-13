@@ -35,7 +35,7 @@ ImageJ/FIJI es un software para analizar, procesar, editar y visualizar imágene
 
 ## Transformación de Datos
 
-+ [Compresión/Descomprensión de imágenes](./Procesamiento-imagen:-Compresion)
++ [Compresión/Descomprensión de imágenes](./Procesamiento-imagen_Compresion)
 + [Traslado de imágenes](./Procesamiento-imagen:-Traslado)
-+ Convertir de [DICOM a NIFTI](./Procesamiento-Imagen:-De-DICOM-a-NIFTI)
-+ Convertir de [PARREC a NIFTI](./Procesamiento-Imagen:-De-PARREC-a-NIFTI)
++ Convertir de [DICOM a NIFTI](./Procesamiento-Imagen_De-DICOM-a-NIFTI)
++ Convertir de [PARREC a NIFTI](./Procesamiento-Imagen_De-PARREC-a-NIFTI)
