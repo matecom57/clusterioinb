@@ -53,6 +53,6 @@ Lo unico que tienes que hacer es elegir la version con la que quieras trabajar y
 
 + [Región de Interés: fslroi](./FSL_ROI): Extrae una región de interés (ROI region of interest) de una imagen.
 + [Mapas cuantitativos: fslstats](./FSL_Stats): Extraer valores de un mapa cuantitativo.
-+ [Reorientar imágenes](./FSL_Reorientar-imágenes): Para visualizar las imágenes de forma habitual.
++ [Reorientar imágenes](./FSL_Reorientar-imagenes): Para visualizar las imágenes de forma habitual.
 + [Quitar volúmenes de un archivo niffti](./FSL_Quitar-volumen-NIFFTI)
-+ [Transformar una máscara](./FSL_Transformar-máscara) (espacio estándar-atlas) al espacio del sujeto (fMRI).
++ [Transformar una máscara](./FSL_Transformar-mascara) (espacio estándar-atlas) al espacio del sujeto (fMRI).

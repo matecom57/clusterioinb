@@ -59,6 +59,6 @@ Algunos tips del uso de FSL
 
 + :doc:`FSL_ROI`: Extrae una región de interés (ROI region of interest) de una imagen.
 + :doc:`FSL_Stats`: Extraer valores de un mapa cuantitativo.
-+ :doc:`FSL_Reorientar-imágenes`: Para visualizar las imágenes de forma habitual.
++ :doc:`FSL_Reorientar-imagenes`: Para visualizar las imágenes de forma habitual.
 + :doc:`FSL_Quitar-volumen-NIFFTI`
-+ :doc:`FSL_Transformar-máscara` (espacio estándar-atlas) al espacio del sujeto (fMRI).
++ :doc:`FSL_Transformar-mascara` (espacio estándar-atlas) al espacio del sujeto (fMRI).

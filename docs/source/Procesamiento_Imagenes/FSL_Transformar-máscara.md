@@ -1,3 +1,6 @@
+Transformar una máscara
+=======================
+
 ## Transformar una máscara (espacio estándar-atlas) al espacio del sujeto (fMRI)  
 
 ### 1. LLevar la máscara a un espacio nuevo
