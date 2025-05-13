@@ -70,4 +70,11 @@ Contenido
     
     Procesamiento_Imagenes/Procesamiento-Imagen
 
+.. toctree::
+    :maxdepth: 1
+    :caption: fMRI
+
+    fMRI/fMRI
+
+
 
