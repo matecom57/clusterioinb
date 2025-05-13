@@ -1,3 +1,6 @@
+FEAT alto nivel 
+===============
+
 ## FEATs DE ALTO NIVEL
 
 Los análisis de alto nivel se dividen en dos tipos: segundo y tercer nivel. Los análisis de segundo nivel incluyen, por ejemplo, contrastes en un mismo sujeto (utilizando sus diferentes COPES), mientras que los análisis de tercer nivel constituyen el promedio de un grupo de sujetos en una condición o contraste particular (directorios FEAT).
