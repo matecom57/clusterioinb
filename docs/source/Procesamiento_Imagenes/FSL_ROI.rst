@@ -2,7 +2,8 @@ Región de Interés: fslroi
 =========================
 
 
-## Extraer una Región de Interés con fslroi 
+Extraer una Región de Interés con fslroi 
+-----------------------
 
 Extrae una región de interés (ROI region of interest) de una imagen.
 
