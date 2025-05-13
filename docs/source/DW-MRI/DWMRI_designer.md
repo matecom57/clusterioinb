@@ -1,3 +1,6 @@
+Preprocesamiento con Designer
+=============================
+
 ## Preprocesamiento de datos con DESIGNER2 ##
 
 [Designer](https://nyu-diffusionmri.github.io/DESIGNER-v2/) es un pipeline muy completo y fácil de usar para preprocesamiento de DWIs. Igual que [`dwifslpreproc`](https://mrtrix.readthedocs.io/en/dev/reference/commands/dwifslpreproc.html) , encapsula muchas herramientas disponibles en fsl y mrtrix, como [topup](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/topup), [eddy](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/eddy), y [mrdegibbs](https://mrtrix.readthedocs.io/en/dev/reference/commands/mrdegibbs.html). Pero quizás su herramienta más poderosa sea su [denoiser](https://nyu-diffusionmri.github.io/DESIGNER-v2/docs/designer/background/#dwi-denoising-with-mppca).
