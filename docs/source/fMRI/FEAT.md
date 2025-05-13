@@ -1,6 +1,8 @@
-
+FEAT
+====
 
 # Tutorial básico
+
 :tipping_hand_person: Para un tutorial paso a paso para el análisis de un diseño de bloques, pulsa [aquí](./FSL-tutorialFeat).
 
 
@@ -23,6 +25,7 @@ Para poder utilizar la imagen estructural en FEAT, esta no debe tener tejido aje
 Para abrir la herramienta, escribir en la terminal:**Feat** (¡No olvidar la mayúscula!)
 
 ## Tips para uso de FEAT
+
 + ¿Qué datos ingresar en [cada pestaña]?(./FEAT-Datos-en-pestañas)
 + [FEAT alto nivel](./FEAT:-Análisis-de-alto-nivel) (segundo y tercer nivel): En esta sección se describe cómo hacer un **análisis de alto nivel** con sus diferentes opciones.
 + [FEAT render highres](./FEAT:-render-highres): En este apartado podrás aprender a **fusionar una imagen funcional o anatómica** base con un mapa estadístico.
@@ -33,4 +36,5 @@ Para abrir la herramienta, escribir en la terminal:**Feat** (¡No olvidar la may
 + [Ejemplo sin GUI](./FEAT:-Modificar-sin-GUI) Aquí aprenderás a **engañar a FEAT** para modificar el modelo sin la GUI.
 
 ## ¿Qué hay dentro de la carpeta FEAT?
+
 Descripción breve de los archivos dentro de una [carpeta FEAT](./FEAT_-Archivos-carpeta-FEAT).
