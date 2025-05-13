@@ -1,3 +1,5 @@
+Preprocesamiento en imágenes de humanos.
+========================================
 
 Antes de empezar, algunos detalles:
 
@@ -6,6 +8,7 @@ Antes de empezar, algunos detalles:
 
 
 ## Conversion de datos 
+
 + Convertir de [DICOM a NIFTI](./Procesamiento-Imagen:-De-DICOM-a-NIFTI)
 + Convertir de [PARREC a NIFTI](./Procesamiento-Imagen:-De-PARREC-a-NIFTI)
 
@@ -17,6 +20,7 @@ Lo que conviene ahora es corregir los errores de movimiento y los artefactos ind
 Este método es anticuado y sub-óptimo, pero lo único que se puede hacer en caso de no contar con imágenes con adquisición reversa de fase. En caso de contar con ellas, entonces utilizar la opción **Eddy correct revpe**. Por el momento no se ha utilizado completamente esta herramienta, pero en esta [página](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/topup) se encuentra toda la información necesaria.
 
 ## Reacomodo de la tabla de gradientes para la compatibilidad de mrtrix
+
 Si queremos usar mrtrix debemos cambiar el formato de la tabla de gradientes a como le gusta a mrtrix. Para ello usamos: 
 
 ``` mrconvert -fslgrad dwi.bvec dwi.bval dwi.nii.gz dwi.mif ```
